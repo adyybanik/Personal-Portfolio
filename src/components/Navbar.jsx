@@ -27,7 +27,7 @@ const Navbar = () => {
 
   const handleResumeClick = () => {
     // Handle the click event for the "Resume" link
-    window.location.href = "https://drive.google.com/drive/u/0/home"; // Replace "/path/to/resume" with the actual URL of your resume
+    window.location.href = "https://drive.google.com/file/d/1xn3WhgRbG9IZzPbjw0yRBnhVnthruXem/view?usp=sharing";
   };
 
 
