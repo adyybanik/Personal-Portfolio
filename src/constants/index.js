@@ -97,16 +97,8 @@ import {
       icon: redux,
     },
     {
-      name: "C++",
-      icon: git,
-    },
-    {
       name: "MongoDB",
       icon: mongodb,
-    },
-    {
-      name: "figma",
-      icon: figma,
     },
   ];
   
